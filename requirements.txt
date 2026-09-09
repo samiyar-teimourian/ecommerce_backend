@@ -1,0 +1,6 @@
+Django
+Pillow
+djangorestframework
+drf-spectacular
+djangorestframework-simplejwt
+django-jazzmin
